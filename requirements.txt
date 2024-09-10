@@ -42,7 +42,7 @@ cpm_kernels
 umap-learn
 # notebook
 gradio==4.19.2
-gradio-client==0.0.8
+gradio-client==0.10.1
 # wandb
 # llama-index==0.5.27
 
